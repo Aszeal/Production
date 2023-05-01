@@ -1,0 +1,437 @@
+.navbar {
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+
+
+.navbar a {
+    color: rgb(0, 0, 0);
+    font-size: small;
+    padding: 0 15px;
+}
+
+
+
+
+.footer {
+    background-color: gray;
+    max-width: 100%;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-navbar {
+    text-align: center;
+    width: 100%;
+    z-index: 999;
+}
+
+
+.footer-navbar a {
+    color: whitesmoke;
+    font-size: small;
+    padding: 0 14px;
+    text-decoration: none;
+}
+
+.hyperlinktext:hover {
+    text-decoration:underline;
+
+}
+
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    background-color:white;
+}
+
+.part1home {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    font-style: normal;
+    
+}
+
+.part1home-img{
+    height: 600px;
+    width: 100%;
+}
+
+.part1home-top {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 7%;
+    left: 34%;
+    font-size: 150px;
+   
+}
+
+.part1home-mid {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    font-size: 40px;
+}
+
+.part1home-link {
+    color: rgb(0, 128, 255);
+    position: absolute;
+    top: 78%;
+    left: 45%;
+    font-size: 26px;
+}
+
+
+
+.part2home {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    float: left;
+}
+
+
+.part2home-img {
+height: 500px;
+width: 1300px;
+}
+
+
+.part2home-top {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    font-size: 60px;
+}
+
+
+.part2home a {
+    color: rgb(0, 128, 255);
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    font-size: 26px;
+}
+
+
+
+
+.part3home {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+
+.part3home-img {
+height: 500px;
+width: 1200.5px;
+
+
+}
+
+
+
+.part3home-top {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    font-size: 60px;
+}
+
+
+.part3home a {
+    color: rgb(0, 128, 255);
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    font-size: 26px;
+}
+
+
+
+.part4home {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+
+}
+
+
+.part4home-img {
+height: 550px;
+width: 100%;
+}
+
+
+.part4home-top {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 12%;
+    left: 34%;
+    font-size: 70px;
+}
+
+
+.part4home a {
+    color: rgb(0, 187, 255);
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    font-size: 26px;
+}
+
+.footer {
+    position: relative;
+}
+
+
+
+
+/* Benovolance websection 1 */
+
+
+.navbar-benevolance {
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+
+.navbar-benevolance a {
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 0 15px;
+    text-decoration: none;
+}
+
+
+.navbar-benevolance-decorator:hover {
+    text-decoration: underline;
+}
+
+.benevolance-part1 {
+    position:relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    overflow: hidden;
+}
+
+.benevolance-img1 {
+    height: 800px;
+    width: 100%;
+}
+
+
+.h2-benevolance {
+    color: whitesmoke;
+    position: absolute;
+    font-size: 90px;
+    top:7%;
+    left: 40%;
+}
+
+.h3-benevolance {
+    position: absolute;
+    color: whitesmoke;
+    font-size: 40px;
+    top: 45%;
+    left: 9%;
+}
+
+
+
+.benevolance-part2 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    overflow: hidden;
+}
+
+.benevolance-img2 {
+        height: 800px;
+        width: 100%;
+}
+
+.h3-benevolance-anatomy1 {
+    position: absolute;
+    color: whitesmoke;
+    font-size: 40px;
+    top: 38%;
+    left: 6%;
+}
+
+.a-benevolance-anatomy {
+    position: absolute;
+    color: rgb(0, 153, 255);
+    font-size: 20px;
+    top: 80%;
+    left: 46%;
+    text-decoration: none;
+}
+
+.a-benevolance-anatomy:hover {
+    text-decoration: underline;
+}
+
+
+.benevolance-part3 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    overflow: hidden;
+}
+
+
+.benevolance-img3 {
+    width: 100%;
+    height: 800px;
+}
+
+.h3-benevolance-psyche1 {
+    position: absolute;
+    color: whitesmoke;
+    font-size: 40px;
+    top: 38%;
+    left: 6%;
+}
+
+.a-benevolance-psyche {
+    position: absolute;
+    color: rgb(0, 122, 204);
+    font-size: 20px;
+    top: 80%;
+    left: 46%;
+    text-decoration: none;
+}
+
+.a-benevolance-psyche:hover {
+    text-decoration: underline;
+}
+
+
+.benevolance-part4 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    overflow: hidden;
+}
+
+
+.benevolance-img4 {
+    height: 800px;
+    width: 100%;
+}
+
+.h3-benevolance-society1 {
+    position: absolute;
+    color: whitesmoke;
+    font-size: 40px;
+    top: 38%;
+    left: 6%;
+}
+
+.a-benevolance-society {
+    position: absolute;
+    color: rgb(0, 187, 255);
+    font-size: 20px;
+    top: 80%;
+    left: 46%;
+    text-decoration: none;
+}
+
+.a-benevolance-society:hover {
+    text-decoration: underline;
+
+}
+
+/* Biosystem: Anatomy */
+
+.navbar {
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    text-decoration: none;
+}
+
+.content {
+    min-height: 50vh;
+    background-color: #222;
+    background-image: url("../fish.jpg");
+    background-size: cover;
+    background-position: center;
+    display: grid; 
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+/* Biosystem: Psyche */
+.content-psyche {
+min-height: 50vh;
+background-color: #222;
+background-image: url("../psyche2.jpg");
+background-size: cover;
+background-position: center;
+display: grid;
+}
+
+
+/* Biosystem: Society */
+
+.content-society {
+    min-height: 50vh;
+background-color: #222;
+background-image: url("../society2.jpg");
+background-size: cover;
+background-position: center;
+display: grid;
+}
+
+/* contact */
+
+.content-contact {
+    min-height: 50vh;
+    background-color: #222;
+    background-image: url("../contact.jpg");
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    
+}
+
+
+
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    padding-top: 10rem;
+    padding-left: 60rem;
+}
+
+.input {
+    width: 20rem;
+    height: 2.0rem;
+}
